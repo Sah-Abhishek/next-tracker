@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "topic": "Cohort",
+            "timeFrom": "0600",
+            "timeTo": "1000",
+            "subtopic": "Nextjs Backend",
+            "hours": "4"
+        },{
+            "id": "2",
+            "topic": "DSA",
+            "timeFrom": "1500",
+            "timeTo": "1900",
+            "subtopic": "Arrays",
+            "hours": "4"
+        },{
+            "id": "3",
+            "topic": "Linux",
+            "timeFrom": "2100",
+            "timeTo": "2400",
+            "subtopic": "Boot Loaders",
+            "hours": "3"
+        },{
+            "id": "4",
+            "topic": "Cohort",
+            "timeFrom": "0500",
+            "timeTo": "1100",
+            "subtopic": "Database Communication",
+            "hours": "6"
+        },{
+            "id": "5",
+            "topic": "DSA",
+            "timeFrom": "1400",
+            "timeTo": "1700",
+            "subtopic": "Strings",
+            "hours": "3"
+        }
+    ]
+}
